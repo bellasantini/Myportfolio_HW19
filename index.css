@@ -32,7 +32,7 @@ p{
 }
 
 .dropdown-item:focus, .dropdown-item:hover{
-  color: #16181b;
+  color: #c6d5ec;
   text-decoration: none;
   background: black;
 }
