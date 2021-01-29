@@ -1,0 +1,90 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'anton', san serif;
+}
+p{
+  font-family: 'jura', san serif;
+}
+.customNav{
+  position: fixed;
+  width: 100%;
+  background: rgba(0,0,0,0.6) !important;
+  background-size: cover;
+  z-index: 10;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+
+.navbar-brand img{
+  padding-right: 15px;
+  width:65px;
+}
+
+.nav-item{
+  margin: 0px 15px;
+}
+
+.nav-link{
+  padding-top: center;
+  margin-right: 40px;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+  color: #16181b;
+  text-decoration: none;
+  background: black;
+}
+
+.customNav a{
+  color: white !important;
+}
+
+.navCTA{
+  font-size:15px;
+  color: white !important;
+}
+
+
+
+
+nav {
+  background-color: rgb(210, 224, 216) !important;
+  color:cover;
+}
+
+.dropdown-menu {
+  background-color: rgb(179, 226, 199);
+  color:blanchedalmond
+}
+
+.btn {
+  background-color: rgb(44, 107, 86);
+  outline: rgb(53, 201, 151);
+  color: rgb(255, 255, 255);
+  border: 0px;
+}
+
+h5 {
+  font: 200;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+h5 {
+  padding: 10px;
+}
+
+.container-fluid {
+  padding: 100px;
+  margin: auto;
+  
+}
+
+.card {
+  border: 15px;
+}
+.btn {
+ margin: 10px;
+}  
